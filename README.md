@@ -1,5 +1,5 @@
 # TIL
-Today I Learned
+> Today I Learned: 내 머릿속의 지우개 극복기
 
 ## 작성 규칙
 
