@@ -11,11 +11,11 @@
 - **특징 :**
     - NoSQL형식 > 유동적인 형식 및 자료형 (딕셔너리와 유사)
     
-    ![Untitled](231227%20ELK%20Stack%2037e685b53c214084b8c6a1ec709acc03/Untitled.png)
+    ![Untitled](ElasticSearch/imgs/Untitled.png)
     
     [https://www.samsungsds.com/kr/insights/1232564_4627.html](https://www.samsungsds.com/kr/insights/1232564_4627.html) : NoSQL 관련 뉴스레터
     
-    ![Untitled](231227%20ELK%20Stack%2037e685b53c214084b8c6a1ec709acc03/Untitled%201.png)
+    ![Untitled](ElasticSearch/imgs/Untitled 1.png)
     
     - 엘라스틱서치에서는 하나의 인덱스에 하나의 타입만을 구성할 수 있습니다. 그리고 기본적으로 HTTP를 통해 JSON 형식의 Restful API를 사용합니다.
     
@@ -33,7 +33,7 @@
     - 역인덱싱-단어가 포함된 특정 문서의 위치를 알아낸다
     - 분산 환경 지원-서버에 원본(Shard), 복제본(Replica-Shard)을 저장하고 이를 적절히 load balancing한다. Cluster > Node > Shard > Document > Field
     
-    ![Untitled](231227%20ELK%20Stack%2037e685b53c214084b8c6a1ec709acc03/Untitled%202.png)
+    ![Untitled](ElasticSearch/imgs/Untitled 2.png)
     
 
 - **단점**
@@ -66,7 +66,7 @@
     
     issues : curl 명령어를 Powershell에서 사용할 수 없었음. cmd에서 실행하기.
     
-    ![Untitled](231227%20ELK%20Stack%2037e685b53c214084b8c6a1ec709acc03/Untitled%203.png)
+    ![Untitled](ElasticSearch/imgs/Untitled 3.png)
     
     - HTTP 통신의 CRUD
         
@@ -232,4 +232,4 @@
     
     - bool query
         
-        ![Untitled](231227%20ELK%20Stack%2037e685b53c214084b8c6a1ec709acc03/Untitled%204.png)
+        ![Untitled](ElasticSearch/imgs/Untitled 4.png)
