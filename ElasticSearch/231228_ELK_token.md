@@ -49,7 +49,7 @@ ELK index
     ```
     
 
-![Untitled](https://github.com/yesxon/TIL/blob/main/ElasticSearch/imgs/Untitled%205.png)
+![Untitled](https://github.com/yesxon/TIL/blob/main/ElasticSearch/imgs/Untitled5.png)
 
 - 토큰 필터
     - lowercase:  모든 대문자를 소문자로 변경
@@ -76,7 +76,7 @@ ELK index
     
     - 한국어 형태소 분석, 초성 검색, 한영 오타 변환 등의 역할 수행
     
-    ![Untitled](https://github.com/yesxon/TIL/blob/main/ElasticSearch/imgs/Untitled%206.png)
+    ![Untitled](https://github.com/yesxon/TIL/blob/main/ElasticSearch/imgs/Untitled6.png)
     
     - **토크나이저(nori_tokenizer)**
         - **user_dictionary**: 사용자 정의 사전
